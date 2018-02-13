@@ -1,0 +1,22 @@
+EXERCICE 2 :
+
+1) mkdir workspace
+2) git status
+3) touch txt.txt
+git status
+4) git add txt.txt
+git status
+5) git commit -m "ajout fichier 1"
+6) touch toto.txt
+git add toto.txt
+7) git commit -m "ajout fichier 2"
+9) git init workspace
+git remote add origin https://github.com/nouveliere-benjamin/Test.git
+git push -u origin master
+10) pull origin master
+11) git diff HEAD
+12) touch oh.txt
+git add oh.txt
+git commit -m "ajout fichier 1"
+git push -u origin master
+13) 
